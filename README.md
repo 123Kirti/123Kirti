@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | Blockchain Enthusiast | Web3 Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&color=00D9FF&center=true&vCenter=true&width=600&lines=Learning+Coding;Passionate+about+Blockchain+%26+Web3;Always+learning%2C+always+innovating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&color=00D9FF&center=true&vCenter=true&width=600&lines=Learning+and+Coding;Passionate+about+Blockchain+%26+Web3;Always+learning%2C+always+innovating)](https://git.io/typing-svg)
 
 ---
 
